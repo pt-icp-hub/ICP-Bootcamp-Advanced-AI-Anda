@@ -1,5 +1,5 @@
 # `Anda`
-
+# For this challenge please follow the instructions in /examples/icp-ledger-agent/README.md 
 > 🤖 An AI agent framework built with Rust, powered by ICP and TEEs.
 
 ## 🌍 README Translations
